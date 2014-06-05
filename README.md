@@ -26,3 +26,9 @@ Follow the steps:<br>
 2, Put it into your website's folder, for example 'librarys/sukiproject/'<br>
 3, Add a line in your script that says: `$GLOBALS['sukiproject_initialize']['core']['path']='librarys/sukiproject/'`<br>
 3, Include it in your script: `include 'librarys/sukiproject/initialization.php'`<br>
+
+请按照以下步骤操作：<br>
+1, 把整个项目下载下来<br>
+2, 把它放在你的网站文件夹里，比如： 'librarys/sukiproject/'<br>
+3, 在你的脚本里加一行：`$GLOBALS['sukiproject_initialize']['core']['path']='librarys/sukiproject/'`<br>
+3, 然后将这个项目的初始化脚本整合进你的脚本： `include 'librarys/sukiproject/initialization.php'`<br>
