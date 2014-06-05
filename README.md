@@ -10,3 +10,7 @@ SUKI 计划的目标是制作一个完整的LAMP网站解决方案框架。因�
 <h3>Who should use this project? / 谁应该使用这个项目？</h3>
 Every one who want to build a website that include either MySQL database, PHP Algorithm, Ajax, JQuery or even CSS Animations.<br>
 所有包含以下任何一种技术的网站，都建议使用本项目：MySQL数据库，PHP高级算法，Ajax远程请求，Jquery甚至CSS动画
+<h3>What's in this project? / 这个项目中包含了那些内容？</h3>
+Suki project have alot of parts that you can include, and there are more and more parts going to be developed.<br>
+Suki项目有很多您可以加载的分块，而且有更多的块正在被开发出来。<br>
+<b>Project Stracture 项目框架：</b>
