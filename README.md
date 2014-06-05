@@ -16,4 +16,6 @@ Suki项目有很多您可以加载的分块，而且有更多的块正在被开�
 <b>Project Stracture 项目框架：</b>
 
 <h2>Use Suki Project / 使用Suki计划</h2>
-<h3>Keep in mind when you are using this project / 使用此项目要注意的事项</h3>
+<h3>Keep in mind when you are using this project / 使用此项目的时候要注意的事项</h3>
+This is an opensource project, BUT IT DOESN'T MEAN IT'S YOURS! You have to write a credit in your website for Suki Project, and you can not modify this project and republish under your name!<br>
+这是一个开源项目，但这并不代表这是你的成就！您必须在您的作品中声明使用了此项目，而且您不可以修改此项目并以您的名义进行发布。
