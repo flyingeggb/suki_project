@@ -21,3 +21,8 @@ This is an opensource project,<b> BUT IT DOESN'T MEAN IT'S YOURS!</b> You have t
 这是一个开源项目，<b>但这并不代表这是你的成就！</b>您必须在您的作品中声明使用了此项目，而且您不可以修改此项目并以您的名义进行发布。
 
 <h2>How to include this Project? / 如何加载这个项目</h2>
+Follow the steps:<br>
+1, Download the whole project<br>
+2, Put it into your website's folder, for example 'librarys/sukiproject/'<br>
+3, Add a line in your script that says: `$GLOBALS['sukiproject_initialize']['core']['path']='librarys/sukiproject/'`<br>
+3, Include it in your script: `include 'librarys/sukiproject/initialization.php'`<br>
