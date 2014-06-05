@@ -14,3 +14,5 @@ Every one who want to build a website that include either MySQL database, PHP Al
 Suki project have alot of parts that you can include, and there are more and more parts going to be developed.<br>
 Suki项目有很多您可以加载的分块，而且有更多的块正在被开发出来。<br>
 <b>Project Stracture 项目框架：</b>
+
+<h2>Include Suki Project / 加载Suki计划</h2>
