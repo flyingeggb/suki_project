@@ -14,7 +14,7 @@ Every one who want to build a website that include either MySQL database, PHP Al
 Suki project have alot of parts that you can include, and there are more and more parts going to be developed.<br>
 Suki项目有很多您可以加载的分块，而且有更多的块正在被开发出来。<br>
 <b>Project Stracture 项目框架：</b>
-
+<img src="http://37d314c7c88af49b192a-0750ac9c31421c67be4e3c29fcf9f2da.r46.cf5.rackcdn.com/main_stracture.png" />
 <h2>Use Suki Project / 使用Suki计划</h2>
 <h3>Keep in mind when you are using this project / 使用此项目的时候要注意的事项</h3>
 This is an opensource project,<b> BUT IT DOESN'T MEAN IT'S YOURS!</b> You have to write a credit in your website for Suki Project, and you can not modify this project and republish under your name!<br>
