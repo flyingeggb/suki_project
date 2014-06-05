@@ -15,4 +15,5 @@ Suki project have alot of parts that you can include, and there are more and mor
 Suki项目有很多您可以加载的分块，而且有更多的块正在被开发出来。<br>
 <b>Project Stracture 项目框架：</b>
 
-<h2>Include Suki Project / 加载Suki计划</h2>
+<h2>Use Suki Project / 使用Suki计划</h2>
+<h3>Keep in mind when you are using this project / 使用此项目要注意的事项</h3>
