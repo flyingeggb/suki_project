@@ -1,4 +1,3 @@
-suki_project
-============
+<h2>Suki Project / Suki 计划</h2>
 
-A complete solution for building website on LAMP stack, include this library will make your life WAY easier.
+<h3>What is Suki Project? / 什么是Suki计划？</h3>
