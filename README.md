@@ -1,4 +1,4 @@
-<h2>Suki Project / Suki 计划</h2>
+<h2>Suki Project Overview / Suki 计划总览</h2>
 
 <h3>Who wrote this project? / 是谁在进行这个计划？</h3>
 All by myself, a 16 years old boy who is interested in programming. It's hard, but because of you guys, I can keep going and keep doing this project. THANK YOU<br>
